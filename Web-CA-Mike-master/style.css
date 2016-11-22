@@ -22,7 +22,18 @@ header {
 	width: 20em;
 	height: 15em;
 	float: left;
-	padding: 2%;
+	margin: 2%;	
+}
+
+#holidays p {
+	padding-bottom: 5%;
+	margin-top: 5%;
+	border-bottom: .2em dashed black;
+}
+
+#holidays img {
+	border: .5em outset #fcf4e5;
+	background-color: #EBDEC5;
 }
 
 #content h1{
@@ -52,6 +63,10 @@ nav a {
 
 #sidebar a {
 	text-decoration: none;
+}
+
+#sidebar h4 {
+	text-align: center;
 }
 
 #sidebar a:hover {
