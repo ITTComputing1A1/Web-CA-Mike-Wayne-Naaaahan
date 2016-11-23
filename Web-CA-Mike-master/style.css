@@ -150,8 +150,6 @@ nav li:hover ul a:hover {
 
 nav li ul {
 	display: none;
-	position: absolute;
-	top: 32.7%;
 	z-index: 100;
 }
 
