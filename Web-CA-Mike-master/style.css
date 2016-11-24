@@ -34,6 +34,7 @@ header {
 #holidays img {
 	border: .5em outset #fcf4e5;
 	background-color: #EBDEC5;
+	float:left;
 }
 
 #content h1{
@@ -59,6 +60,7 @@ nav a {
 	left: 3%;
 	background-color: #EBDEC5;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	
 }
 
 #sidebar a {
